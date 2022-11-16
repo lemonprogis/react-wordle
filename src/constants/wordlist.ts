@@ -1,4 +1,28 @@
-export const WORDS = [
+export const NOVEMBER_WORDS = [
+    'acorn',
+    'apple',
+    'brown',
+    'bread',
+    'thank',
+    'table',
+    'visit',
+    'guest',
+    'crisp',
+    'crops',
+    'serve',
+    'plant',
+    'feast',
+    'pecan',
+    'spice',
+    'sauce',
+    'rolls',
+    'plate'
+];
+export const DECEMBER_WORDS = [];
+
+export const WORDS = NOVEMBER_WORDS;
+
+export const WORDSS = [
   'which',
   'there',
   'their',
